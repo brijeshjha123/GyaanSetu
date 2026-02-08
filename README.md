@@ -6,7 +6,7 @@ A comprehensive e-learning platform that provides online courses, assessments, a
 
 Landing page screenshot (replace `assets/landing-screenshot.png` with the actual image file):
 
-![iGyan Setu Landing](/assets/landing-screenshot.png)
+![iGyan Setu Landing](assets/landing-screenshot.png)
 
 
 ## 🚀 Features
