@@ -1,0 +1,9 @@
+PLACEHOLDER for landing screenshot
+
+To display the screenshot in this repository's README, place the actual image file at:
+
+  assets/landing-screenshot.png
+
+You can do this by saving the screenshot image (PNG) with that filename. Once the PNG is present, GitHub and other renderers will display it in the README.
+
+If you'd like, I can try to add the provided attachment into this path — tell me to proceed and I'll attempt to place the image file as `assets/landing-screenshot.png`.
